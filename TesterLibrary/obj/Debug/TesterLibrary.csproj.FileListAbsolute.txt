@@ -1,0 +1,6 @@
+C:\Users\lab_services_student\source\repos\TesterLibrary\bin\Debug\TesterLibrary.dll
+C:\Users\lab_services_student\source\repos\TesterLibrary\bin\Debug\TesterLibrary.pdb
+C:\Users\lab_services_student\source\repos\TesterLibrary\obj\Debug\TesterLibrary.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\TesterLibrary\obj\Debug\TesterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\TesterLibrary\obj\Debug\TesterLibrary.dll
+C:\Users\lab_services_student\source\repos\TesterLibrary\obj\Debug\TesterLibrary.pdb
