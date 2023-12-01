@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\StudyGuide-WebApp.props" />
-</Project>
