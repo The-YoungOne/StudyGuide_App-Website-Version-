@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Lucian Young's studyGuide App : ST10039287'</h1>
+</div>
+
+
+@if (User.Identity.IsAuthenticated)
+{
+            <script src="/lib/jquery/dist/jquery.js"></script>
+            <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+            <script type="text/javascript">
+                toastr.success('@TempData["Message"]');
+            </script>
+}
+

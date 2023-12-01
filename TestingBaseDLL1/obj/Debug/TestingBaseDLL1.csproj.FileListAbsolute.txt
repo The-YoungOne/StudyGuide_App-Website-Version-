@@ -1,0 +1,11 @@
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\bin\Debug\TestingBaseDLL1.exe.config
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\bin\Debug\TestingBaseDLL1.exe
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\bin\Debug\TestingBaseDLL1.pdb
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\bin\Debug\NaseDll1.dll
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\bin\Debug\NaseDll1.pdb
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\obj\Debug\TestingBaseDLL1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\obj\Debug\TestingBaseDLL1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\obj\Debug\TestingBaseDLL1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\obj\Debug\TestingBaseDLL1.csproj.CopyComplete
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\obj\Debug\TestingBaseDLL1.exe
+C:\Users\lab_services_student\source\repos\TestingBaseDLL1\obj\Debug\TestingBaseDLL1.pdb

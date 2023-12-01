@@ -1,0 +1,42 @@
+﻿@model TesterStudyGuide_WebApp.Models.SemesterModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>SemesterModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.weeks)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.weeks)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.startDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.startDate)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete" onsubmit="return confirmDelete()">
+        <input type="hidden" asp-for="semesterId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+
+<script>
+    function confirmDelete() {
+        var result = confirm("\nAre you sure?\n-------------------------\nIf you remove the Semester, all modules and their study records associated with it will be removed as well.");
+
+        return result; // If true, the form will be submitted; if false, it won't.
+    }
+</script>
+
